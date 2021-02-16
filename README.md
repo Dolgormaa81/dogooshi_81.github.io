@@ -1,2 +1,2 @@
 # dogooshi_81.github.io
-ma first hard laboratory
+ ma first hard laboratory
